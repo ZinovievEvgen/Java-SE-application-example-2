@@ -1,0 +1,50 @@
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+SEVERE: Стартуем
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+SEVERE: *******************************************
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+SEVERE: BY SAiDHazzarD
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: Открываем файл - input4.txt
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+WARNING: Создали MAP с наследниками
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: a:null
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: b:a
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: c:a
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: d:c
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: e:m
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: f:a
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: g:d
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: i:g
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: m:i
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: n:i
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: w:e
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: x:z
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: y:z
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf main
+INFO: z:i
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: Запись ведется в файл - output4.txt
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: Добавление записи в OUTSET: e
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: OUTSET содержит запись: e
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: OUTSET содержит запись: e
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: Добавление записи в OUTSET: g
+фев 04, 2019 11:12:08 PM iofile.ApplicationBuf OutputExceptionGoToHellByGilfoil
+WARNING: Добавление записи в OUTSET: f
