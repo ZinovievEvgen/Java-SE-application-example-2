@@ -7,6 +7,6 @@ The code may be not optimal
 
 Considered 2 options:
 
-1 - console input and output (package - console)
+1 - Console input and output (package - console)
 
-2- 
+2 - BufferedReader input and output (package - iofile)
